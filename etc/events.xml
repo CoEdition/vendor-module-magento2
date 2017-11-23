@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Event/etc/events.xsd">
+    <event name="">
+        <observer name="coedition_vendor_inventory" instance="CoEdition\Vendor\Observer\InventoryObserver"/>
+    </event>
+    <event name="">
+        <observer name="coedition_vendor_order_status" instance="CoEdition\Vendor\Observer\OrderStatusObserver"/>
+    </event>
+    <event name="">
+        <observer name="coedition_vendor_shipment" instance="CoEdition\Vendor\Observer\ShipmentObserver"/>
+    </event>
+</config>
