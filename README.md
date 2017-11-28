@@ -1,3 +1,3 @@
-# CoEdition MarketPlace Vendor Module
+# Vendor Module
 
-The marketplace vendor module is designed to push event data from the magento system into the CoEdition marketplace for tight integration between the platforms.
+This is the vendor module which hooks into the mage2 system to provide webhooks for the market place
