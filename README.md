@@ -17,6 +17,10 @@ There are many ways to install a magento 2 module, the simplest is to download t
 4. Run `php bin/magento setup:di:compile`
 5. Run `php bin/magento setup:static-content:deploy` to complete the process for production.
 
+Here is a video that demonstrates the above instructions:
+
+[![Install Magento 2 Connector Module](https://content.screencast.com/users/ragboy/folders/Snagit/media/e28d84fa-ba0f-4102-bc8c-bcb3525b64d3/FirstFrame.jpg)](https://www.screencast.com/t/a1kfGS1FkQrk)
+
 ## Prepare API access for Coedition
 
 You must create an api/admin user for Coedition to access your categories and products and to have the ability to push orders back into your system. Here is a video for instructions, just click the image below to view the video.
