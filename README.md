@@ -25,10 +25,11 @@ Here is a video that demonstrates the above instructions:
 
 You must create an api/admin user for Coedition to access your categories and products and to have the ability to push orders back into your system. Here is a video for instructions, just click the image below to view the video.
 
-[![Prepare API/ADMIN User](https://content.screencast.com/users/ragboy/folders/Snagit/media/c6e04ebf-32bf-4c17-9d37-bb11bf67a94c/FirstFrame.jpg)](https://www.screencast.com/t/cLhyVaeuv)
+[![Prepare API/ADMIN User](https://content.screencast.com/users/ragboy/folders/Snagit/media/06d83782-9701-4eab-94e9-7503c51ac81f/FirstFrame.jpg)](https://www.screencast.com/t/nCpuPlGznt)
 
 ## Categorize to Coedition Taxonomy and Publish products
 
 You now need to categorize your products into the Coedition taxonomy so that we can pull into our system. Here is a video for instructions, just click the image below to view the video.
 
 [![Categorize](https://content.screencast.com/users/ragboy/folders/Snagit/media/e9a6d7b5-4699-44da-878a-09cc848c586e/FirstFrame.jpg)](https://www.screencast.com/t/tWUDq7lQ)
+
