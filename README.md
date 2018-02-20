@@ -21,4 +21,4 @@ You must create an api/admin user for Coedition to access your categories and pr
 
 You now need to categorize your products into the Coedition taxonomy so that we can pull into our system. Here is a video for instructions, just click the image below to view the video.
 
-[![Categorize](https://content.screencast.com/users/ragboy/folders/Snagit/media/09b96e8a-1556-4f64-a45b-890ade0f2c60/FirstFrame.jpg)](https://www.screencast.com/t/ULMLp9vfw)
+[![Categorize](https://content.screencast.com/users/ragboy/folders/Snagit/media/e9a6d7b5-4699-44da-878a-09cc848c586e/FirstFrame.jpg)](https://www.screencast.com/t/tWUDq7lQ)
