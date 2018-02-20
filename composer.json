@@ -6,7 +6,7 @@
         "magento/framework": "^100.0|^101.0"
     },
     "type": "magento2-module",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "license": [
         "OSL-3.0",
         "AFL-3.0"
@@ -22,7 +22,7 @@
             "registration.php"
         ],
         "psr-4": {
-            "CoEdition\\Vendor\\": ""
+            "Coedition\\Vendor\\": ""
         }
     }
 }

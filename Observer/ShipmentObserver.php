@@ -1,6 +1,6 @@
 <?php
 
-namespace CoEdition\Vendor\Observer;
+namespace Coedition\Vendor\Observer;
 
 use Magento\Framework\Event;
 

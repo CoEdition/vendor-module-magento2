@@ -1,4 +1,4 @@
-# For Help with this installation, please contact connectorsupport@coedition.com 
+# For Help with this installation, please contact connectorsupport@coedition.com
 # Magento 2 Vendor Module
 
 The Coedition Vendor module for magento 2 handles the integration for coedition marketplace vendors.
@@ -9,7 +9,7 @@ This extension updates API endpoints for coedition to integrate into your system
 
 ## Installation
 
-There are many ways to install a magento 2 module, the simplest is to download the code from this repository and change the name of the folder from `vendor-module-magento2-master` to `Coedition_Vendor` and then drop the folder into your `app/code` folder. Then run `php bin/magento setup:upgrade` to install. You many then run `php bin/magento setup:di:compile` and `php bin/magento setup:static-content:deploy` to complete the process for production.
+There are many ways to install a magento 2 module, the simplest is to download the code from this repository and change the name of the folder from `vendor-module-magento2-master` to `Coedition/Vendor` and then drop the folder into your `app/code` folder. Then run `php bin/magento setup:upgrade` to install. You many then run `php bin/magento setup:di:compile` and `php bin/magento setup:static-content:deploy` to complete the process for production.
 
 ## Prepare API access for Coedition
 

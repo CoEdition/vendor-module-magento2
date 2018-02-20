@@ -2,6 +2,6 @@
 
 Magento\Framework\Component\ComponentRegistrar::register(
     Magento\Framework\Component\ComponentRegistrar::MODULE,
-    'CoEdition_Vendor',
+    'Coedition_Vendor',
     __DIR__
 );
