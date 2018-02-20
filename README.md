@@ -9,7 +9,13 @@ This extension updates API endpoints for coedition to integrate into your system
 
 ## Installation
 
-There are many ways to install a magento 2 module, the simplest is to download the code from this repository and change the name of the folder from `vendor-module-magento2-master` to `Coedition/Vendor` and then drop the folder into your `app/code` folder. Then run `php bin/magento setup:upgrade` to install. You many then run `php bin/magento setup:di:compile` and `php bin/magento setup:static-content:deploy` to complete the process for production.
+There are many ways to install a magento 2 module, the simplest is to download the code from this repository and do the following:
+
+1. Make a directory inside your magento 2 installation, in your `app/code` directory named `Coedition`.
+2. Click the `clone or download zip` button for this repository and then change the name of the folder from `vendor-module-magento2-master` to `Vendor` and then drop the folder into the newly made `app/code/Coedition` folder so the path of this `Vendor` folder will be `app/code/Coedition/Vendor`.
+3. Run `php bin/magento setup:upgrade` to install. (you may stop here if in development mode)
+4. Run `php bin/magento setup:di:compile`
+5. Run `php bin/magento setup:static-content:deploy` to complete the process for production.
 
 ## Prepare API access for Coedition
 
